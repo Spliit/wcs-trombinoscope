@@ -27,6 +27,7 @@ h1 {
 
 .navbar {
   top: 0;
+  position: -webkit-sticky;
   transition: 1500ms ease;
   background-color: rgb(240,240,240);
   width: 100%;
