@@ -26,7 +26,6 @@ h1 {
 /* NAVBAR */
 
 .navbar {
-  position: sticky;
   top: 0;
   transition: 1500ms ease;
   background-color: rgb(240,240,240);
